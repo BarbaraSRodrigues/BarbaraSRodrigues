@@ -40,14 +40,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kennedy2064&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BarbaraSRodrigues&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=Kennedy2064&theme=dark&locale=pt_BR&mode=weekly" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraSRodrigues&theme=dark&locale=pt_BR&mode=weekly" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kennedy2064&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSRodrigues&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
   
   </td>
 </tr>
