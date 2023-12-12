@@ -47,7 +47,7 @@
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSRodrigues&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=Jupyter Notebook"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSRodrigues&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide='Jupyter Notebook'"/>
   
   </td>
 </tr>
