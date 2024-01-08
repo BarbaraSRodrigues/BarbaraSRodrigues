@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 Estou procurando um **estágio!**
 
-- 🌱 Atualmente estou estudando **Python** dentro do contexto de **Orientação à Objetos**
+- 🌱 Atualmente estou trabalhando em um projeto e desenvolvimento de um site para um escritório de contabilidade.
 
 - 📫 Sinta-se a vontade para entrar em contato comigo! **barbarasrodrigues20@gmail.com**
 <!--Intro end-->
