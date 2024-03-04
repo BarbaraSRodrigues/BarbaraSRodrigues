@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 Estou procurando um **estágio!**
+- 🔭 Estou estagiando na área de **Desenvolvimento Web**.
 
 - 🌱 Atualmente estou trabalhando em um projeto e desenvolvimento de um site para um escritório de contabilidade.
 
