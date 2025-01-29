@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 Estou procurando um estágio na área de **Desenvolvimento Web**.
+- 🔭 Estou trabalhando na área de **Desenvolvimento Web**.
 
-- 🌱 Atualmente estou trabalhando em um projeto e desenvolvimento de um site para um escritório de contabilidade.
+- 🌱 Atualmente estou estudando **Vue.JS** e **WordPress Avançado**.
 
 - 📫 Sinta-se a vontade para entrar em contato comigo! **barbarasrodrigues20@gmail.com**
 <!--Intro end-->
