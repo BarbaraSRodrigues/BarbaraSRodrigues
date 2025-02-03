@@ -42,9 +42,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BarbaraSRodrigues&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraSRodrigues&theme=dark&exclude_days=Sun%2CSat" /> 
-</td>
-
+  
 <td width="50%" align="center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraSRodrigues&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook,makefile,nasl"/>
