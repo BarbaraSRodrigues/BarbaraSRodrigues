@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -42,7 +42,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BarbaraSRodrigues&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraSRodrigues&theme=dark&locale=pt_BR&mode=weekly" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=BarbaraSRodrigues&theme=dark&exclude_days=Sun%2CSat" /> 
 </td>
 
 <td width="50%" align="center">
