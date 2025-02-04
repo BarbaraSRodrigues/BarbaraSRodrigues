@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 Estou trabalhando na área de **Desenvolvimento Web**.
+- 🔭 Estou trabalhando na área de **Desenvolvimento Web**, como Desenvolvedora de Sites e Telas de Produtos.
 
 - 🌱 Atualmente estou estudando **Vue.JS** e **WordPress Avançado**.
 
