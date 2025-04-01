@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 Estou trabalhando na área de **Desenvolvimento Web**, como Desenvolvedora de Sites e Telas de Produtos.
 
-- 🌱 Atualmente estou estudando **Vue.JS** e **WordPress Avançado**.
+- 🌱 Atualmente estou estudando **Vue.JS**, **WordPress Avançado** e **React Native**.
 
 - 📫 Sinta-se a vontade para entrar em contato comigo! **barbarasrodrigues20@gmail.com**
 <!--Intro end-->
